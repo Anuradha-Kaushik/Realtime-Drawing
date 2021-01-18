@@ -1,0 +1,44 @@
+h1
+{
+   font-size: 80px;
+   font-family: 'Bebas Neue', cursive;
+   color: black; 
+}
+
+hr{
+    height: 5px;
+    background-color: black; 
+}
+
+.heading_div
+{
+   float: none;
+   background: #FBAF00;
+   padding: 10px;
+   color: black;
+   border-radius: 20px;
+   box-shadow: 10px 10px 10px #F5C400;
+   font-size: 20px;
+   margin-bottom: 10px;
+   font-family: 'Lobster', cursive;
+}
+
+.copyright_footer
+{
+   position: fixed;
+   color: black;
+   bottom: 0;
+   width: 100%;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 40px;
+   line-height: 3;
+   text-align: center;
+}
+
+canvas
+{
+   border: 5px solid black;
+   border-radius: 20px;
+   margin-top: 150px;
+}
+
